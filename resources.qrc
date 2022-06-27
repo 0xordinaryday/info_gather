@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/info_gather" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
